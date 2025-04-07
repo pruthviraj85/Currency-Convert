@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: lightgray;
+  padding: 20px;
+}
+.container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+select,
+input,
+button {
+  margin: 10px;
+  padding: 10px;
+  border: none;
+  border-bottom: 2px solid violet;
+  border-top: 2px solid gold;
+  border-radius: 10px;
+}
+select,
+input,
+button:focus {
+  outline: none;
+}
+button {
+  cursor: pointer;
+}
