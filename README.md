@@ -1,4 +1,4 @@
-[Currency Converter App]()
+[Currency Converter App]( https://pruthviraj85.github.io/Currency-Convert/)
 
 🌍💱 Currency Converter App
 Effortlessly convert currencies from around the world with our sleek and easy-to-use Currency Converter! 🌟 Whether you're traveling, shopping online, or just curious about exchange rates, this tool has got your back! ✈️🛒📊
@@ -32,3 +32,4 @@ No confusing settings – just pick, convert, and go!
 
 Makes handling foreign currencies as easy as pie! 🥧✨
 
+![screencapture-127-0-0-1-5500-index-html-2025-04-08-11_17_07](https://github.com/user-attachments/assets/f5af7b13-6af4-4868-8a28-9eec04dead34)
